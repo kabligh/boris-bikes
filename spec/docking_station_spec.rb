@@ -24,7 +24,7 @@ describe DockingStation do
 end
 
 # it "responds to release_bike" do
-  # expect(subject).to respond_to :release_bike
+# expect(subject).to respond_to :release_bike
 
 # { is_expected.to respond_to(:dock).with(1).argument }
 # { is_expected.to respond_to(:bike)}
